@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mehdi 👋</h1>
-<h3 align="center">Deep Learning & Robotics Researcher | Autonomous Systems & Reinforcement Learning</h3>
+<h3 align="center">Deep Learning & Autonomous Systems Researcher | ML Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/MSD-99">
@@ -8,17 +8,20 @@
   <a href="https://github.com/MSD-99">
     <img src="https://img.shields.io/github/followers/MSD-99?label=Followers&style=flat-square&color=2563eb&logo=github" alt="GitHub Followers"/>
   </a>
+  <a href="https://www.linkedin.com/in/mehdi-sadeghian">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a researcher specializing in **Deep Learning**, **Autonomous Systems**, and **Reinforcement Learning**, with a background in **Mechatronics and Control Engineering**. My research centers on developing intelligent, safe, and adaptive decision-making algorithms for robotic navigation and multi-agent interaction in dynamic environments.
+I am a researcher and engineer specializing in **Deep Learning**, **Autonomous Systems**, and **Reinforcement Learning**, with a solid background in **Mechatronics and Control Engineering**. My work bridges theoretical algorithm design with practical software deployment—focusing on safe navigation, decision-making in dynamic environments, and scalable computer vision pipelines.
 
-- 🔭 **Research Focus**: Safe Navigation of Autonomous Vehicles, Hybrid Reinforcement Learning & Imitation Learning, Multi-Agent Trajectory Forecasting.
-- 🧠 **Technical Domains**: Deep Reinforcement Learning, Computer Vision (Object Detection & Medical Imaging), Generative Models (GANs & Diffusion), and Spatio-Temporal Graph Neural Networks (ST-GNNs).
-- 💡 **Core Interests**: Autonomous Driving, Intelligent Transportation, Robotics, and Advanced Control Theory.
+- 🔭 **Research Focus**: Safe Navigation & Control of Autonomous Vehicles, Hybrid Reinforcement Learning & Imitation Learning, Multi-Agent Trajectory Forecasting.
+- 🧠 **Technical Expertise**: Deep Reinforcement Learning, Computer Vision (YOLO, Vision Transformers), Generative AI (CycleGAN, Diffusion), and Spatio-Temporal Graph Neural Networks (ST-GNNs).
+- ⚙️ **Applied Engineering**: Containerized ML workflows with Docker, End-to-End Pipeline Development, Data Engineering & SQL, and Embedded/Control Systems.
 
 ---
 
@@ -27,12 +30,15 @@ I am a researcher specializing in **Deep Learning**, **Autonomous Systems**, and
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
