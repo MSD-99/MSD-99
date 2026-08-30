@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/MSD-99">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMSD-99%2FMSD-99&count_bg=%232563eb&title_bg=%231e293b&icon=&icon_color=%23ffffff&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=MSD-99&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   <a href="https://github.com/MSD-99">
-    <img src="https://img.shields.io/github/followers/MSD-99?label=Followers&style=flat&color=2563eb&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/MSD-99?label=Followers&style=flat-square&color=2563eb&logo=github" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -53,10 +53,10 @@ I am a researcher specializing in **Deep Learning**, **Autonomous Systems**, and
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSD-99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSD-99&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSD-99&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSD-99&theme=tokyonight" width="48%" alt="Languages Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSD-99&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MSD-99&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
 </p>
