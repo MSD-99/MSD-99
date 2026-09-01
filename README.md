@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mehdi Sadeghian 👋</h1>
-<h3 align="center">Mechatronics & Control Engineer | Deep Reinforcement Learning & Robotics Researcher</h3>
+<h3 align="center">AI & Robotics Engineer | Deep Reinforcement Learning & Autonomous Systems Researcher</h3>
 
 <p align="center">
   <a href="https://github.com/MSD-99">
