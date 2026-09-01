@@ -23,11 +23,10 @@
 
 ### 👨‍💻 About Me
 
-I am an M.Sc. researcher in **Mechatronics Engineering** at **Tarbiat Modares University (TMU)** with a B.Sc. in **Electrical Engineering (Control Systems)** from **Isfahan University of Technology (IUT)**. My work focuses on the intersection of **Deep Reinforcement Learning**, **Autonomous Vehicle Navigation**, and **Physics-Based Multibody Robot Control**.
+I am an M.Sc. researcher in **Mechatronics Engineering** at **Tarbiat Modares University (TMU)** with a B.Sc. in **Electrical Engineering (Control Systems)** from **Isfahan University of Technology (IUT)**. My work focuses on the intersection of **Deep Reinforcement Learning**, **Autonomous Vehicle Navigation**, and **High-Fidelity Robotics Simulation**.
 
-- 🔭 **Current Research**: Safe Navigation and Control of Autonomous Vehicles in Dynamic Environments using Hybrid RL & Imitation Learning.
-- 🧠 **Core Competencies**: Deep RL (PyTorch, Gymnasium), Trajectory Forecasting (ST-GCNN, CVAE-GMM), Computer Vision (YOLOv11, Vision Transformers), Multibody Simulation (MATLAB/Simulink, Simscape), and Computed Torque Control.
-- 💬 **Ask Me About**: Reinforcement Learning, Robot Dynamics & Control, and Computer Vision pipelines.
+- 🔭 **Current Research**: Safe Navigation and Motion Planning for Autonomous Systems in Dynamic Environments using Hybrid RL & Imitation Learning.
+- 🧠 **Technical Focus**: Deep Reinforcement Learning (PyTorch, Gymnasium), Multi-Agent Trajectory Forecasting (ST-GCNN, CVAE-GMM), Real-Time Computer Vision (YOLOv11, Vision Transformers), and Physics-Based Multibody Simulation (MATLAB/Simulink, Simscape).
 
 ---
 
@@ -55,7 +54,7 @@ I am an M.Sc. researcher in **Mechatronics Engineering** at **Tarbiat Modares Un
 
 | Project | Description | Core Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🤖 **SCARA Robot Dynamics & Simscape Control** | 4-DOF industrial manipulator Euler-Lagrange modeling, CAD assembly, Computed Torque Control & Simscape Multibody physical simulation. | `MATLAB` `Simulink` `Simscape` `CTC` | [🔗 View Repo](https://github.com/MSD-99/SCARA_Manipulator_Dynamics_Simulink_Control) |
+| 🤖 **SCARA Robot Dynamics & Simscape Simulation** | 4-DOF industrial manipulator Euler-Lagrange dynamic modeling, SolidWorks CAD assembly integration, and closed-loop trajectory tracking in Simscape Multibody. | `MATLAB` `Simulink` `Simscape` `CAD` | [🔗 View Repo](https://github.com/MSD-99/SCARA_Manipulator_Dynamics_Simulink_Control) |
 | 🧠 **DQN for Frozen LLM Soft Prompt Optimization** | Reinforcement Learning agent optimizing continuous soft prompt vectors for frozen LLMs without parameter updates. | `PyTorch` `Gymnasium` `Transformers` | [🔗 View Repo](https://github.com/MSD-99/RL_DQN_LLM_Prompt_Optimization) |
 | 🚶 **Pedestrian Trajectory Prediction** | Deep generative multi-agent path forecasting using Spatio-Temporal Graph Convolutions and CVAE-GMM on ETH/UCY benchmark. | `PyTorch` `ST-GCNN` `CVAE-GMM` | [🔗 View Repo](https://github.com/MSD-99/Pedestrian-Trajectory-Prediction-CVAE-GMM) |
 | 🪖 **PPE Helmet Detection & Video Generation** | Real-time industrial safety object detection (YOLOv11, 0.912 mAP@50) paired with text-to-video diffusion pipelines. | `YOLOv11` `Diffusers` `OpenCV` | [🔗 View Repo](https://github.com/MSD-99/Helmet-Detection-Text-to-Video) |
