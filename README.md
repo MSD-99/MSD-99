@@ -2,6 +2,9 @@
 <h3 align="center">Mechatronics & Control Engineer | Deep Reinforcement Learning & Robotics Researcher</h3>
 
 <p align="center">
+  <a href="https://github.com/MSD-99">
+    <img src="https://komarev.com/ghpvc/?username=MSD-99&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
   <a href="https://msd-99.github.io">
     <img src="https://img.shields.io/badge/Portfolio-msd--99.github.io-0077B6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
